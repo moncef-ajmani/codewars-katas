@@ -5,7 +5,7 @@ This repository contains my solutions to various katas from Codewars, implemente
 ## Folder Structure
 
 The repository follows the following folder structure:
-````
+```
 .
 ├── kyu-8
 │ ├── kata1.js
