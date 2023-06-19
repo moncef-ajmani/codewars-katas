@@ -5,6 +5,7 @@ This repository contains my solutions to various katas from Codewars, implemente
 ## Folder Structure
 
 The repository follows the following folder structure:
+````
 .
 ├── kyu-8
 │ ├── kata1.js
@@ -19,6 +20,8 @@ The repository follows the following folder structure:
 │ ├── kata2.js
 │ └── ...
 └── ...
+
+```
 
 Each `kyu-X` folder represents a different difficulty level, where `X` is the kyu level (e.g., `kyu-8` for 8th kyu). Inside each `kyu-X` folder, you will find individual files (`kata1.js`, `kata2.js`, etc.) for each kata solution.
 
