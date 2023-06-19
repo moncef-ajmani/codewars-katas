@@ -1,4 +1,5 @@
-# Codewars Katas with Node.js
+# Codewars Katas with JavaScript
+
 
 This repository contains my solutions to various katas from Codewars, implemented using Node.js. The katas are organized into separate folders based on their difficulty level (kyu).
 
